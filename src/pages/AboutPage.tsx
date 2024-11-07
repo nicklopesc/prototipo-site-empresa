@@ -1,10 +1,10 @@
 import React from 'react';
 import { Grid, Typography, Avatar, Box, Paper, Divider, Button } from '@mui/material';
-import Avatar1 from "../../public/imgs/avatar1.jpg";
-import Avatar2 from "../../public/imgs/avatar2.jpg";
-import Avatar3 from "../../public/imgs/avatar3.jpg";
-import Avatar4 from "../../public/imgs/avatar4.jpg";
-import Avatar5 from "../../public/imgs/avatar5.jpg";
+import Avatar1 from "../assets/imgs/avatar1.jpg";
+import Avatar2 from "../assets/imgs/avatar2.jpg";
+import Avatar3 from "../assets/imgs/avatar3.jpg";
+import Avatar4 from "../assets/imgs/avatar4.jpg";
+import Avatar5 from "../assets/imgs/avatar5.jpg";
 import { useNavigate } from 'react-router-dom';
 
 const teamMembers = [

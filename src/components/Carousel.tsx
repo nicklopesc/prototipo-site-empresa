@@ -1,9 +1,9 @@
 import React from 'react';
 import { Box, Typography } from '@mui/material';
 import { useState, useEffect } from 'react';
-import Home1 from "../../public/imgs/Home1.jpg";
-import Home2 from "../../public/imgs/Home2.jpg";
-import Home3 from "../../public/imgs/Home3.jpg";
+import Home1 from "../assets/imgs/Home1.jpg";
+import Home2 from "../assets/imgs/Home2.jpg";
+import Home3 from "../assets/imgs/Home3.jpg";
 
 const images = [Home1, Home2, Home3];
 const texts = [

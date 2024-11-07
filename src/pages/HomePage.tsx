@@ -1,8 +1,8 @@
 import React from 'react';
 import { Grid, Typography, Card, CardContent, CardMedia, Box, Paper } from '@mui/material';
-import Consultoria from "../../public/imgs/consultoria.jpg";
-import Desenvolvimento from "../../public/imgs/desenvolvimento.jpg";
-import Marketing from "../../public/imgs/marketing.jpg";
+import Consultoria from "../assets/imgs/consultoria.jpg";
+import Desenvolvimento from "../assets/imgs/desenvolvimento.jpg";
+import Marketing from "../assets/imgs/marketing.jpg";
 import Carousel from '../components/Carousel';
 
 const HomePage: React.FC = () => {
